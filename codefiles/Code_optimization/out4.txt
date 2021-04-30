@@ -1,0 +1,14 @@
+a = 10
+b = 5
+c=15
+d=5
+e=50
+f=2.0
+i = 0
+L0 :
+t4 = i < 6 
+if t5 goto L1
+PRINT i 
+i = i + 1 
+goto L0
+L1 : 
