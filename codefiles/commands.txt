@@ -1,0 +1,9 @@
+lex pythonCompiler.l
+yacc pythonCompiler.y
+gcc pythonCompiler.tab.c
+a testfile.py                //  windows
+./a.out testfile.py          //  Linux
+
+To generate .output and .h file:
+yacc -v pythonCompiler.y
+yacc -d pythonCompiler.y
