@@ -1,0 +1,8 @@
+/* COPY PROPAGATION */
+python code_copy.py
+/* CONSTANT PROPAGATION */
+python const_prop.py
+/* CONSTANT FOLDING */
+python const_fold.py
+/* DEAD CODE EIMINATION */
+python dead_code_elim.py
