@@ -1,0 +1,12 @@
+/* Windows */
+a test1.py
+a test2.py
+a test3.py
+a test4.py
+
+/* Linux */
+./a.out test1.py
+./a.out test2.py
+./a.out test3.py
+./a.out test4.py
+
